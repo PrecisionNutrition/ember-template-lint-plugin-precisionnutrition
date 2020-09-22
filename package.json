@@ -1,0 +1,16 @@
+{
+  "name": "ember-template-lint-plugin-precisionnutrition",
+  "version": "1.0.0",
+  "description": "Shareable ember-template-lint plugin for PrecisionNutrition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hbs",
+    "handlebars",
+    "htmlbars"
+  ],
+  "author": "Precision Nutrition",
+  "license": "MIT"
+}
